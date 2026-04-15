@@ -22,7 +22,7 @@ I think in systems, not just features. My work spans physical products with embe
 
 | Project | What it shows |
 |---|---|
-| [0→1 SaaS Product (TBA)](https://github.com/fomeroglu/product-systems-portfolio/tree/main/exchange-marketplace) | 0→1 system design · API contracts · domain model · SQL analysis |
+| [0→1 SaaS Product (TBA)](https://github.com/fomeroglu/product-systems-portfolio/tree/main/saas-platform) | 0→1 system design · API contracts · domain model · SQL analysis |
 | [Smart Containers](https://github.com/fomeroglu/product-systems-portfolio/tree/main/smart-containers) | IoT telemetry · webhook integration · API contract design |
 | [Sortation Platform](https://github.com/fomeroglu/product-systems-portfolio/tree/main/sortation-platform) | SQL analysis · data-driven ops · field research |
 | [Agentic Development (TBA)](https://github.com/fomeroglu/product-systems-portfolio/tree/main/warehouse-module) | Agentic PM · product charter · AI-assisted development |
