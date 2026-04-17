@@ -25,7 +25,7 @@ I think in systems, not just features. My work spans physical products with embe
 | [0→1 SaaS Product (TBA)](https://github.com/fomeroglu/product-systems-portfolio/tree/main/saas-platform) | Turned an ambiguous vision into a shippable system — 60% faster validation, 3–5 pilots |
 | [Smart Containers](https://github.com/fomeroglu/product-systems-portfolio/tree/main/smart-containers) | Built and validated a physical + digital product from prototype to deployment — telemetry integration, usability testing, and field validation across 1,000+ units |
 | [Sortation Platform](https://github.com/fomeroglu/product-systems-portfolio/tree/main/sortation-platform) | Used data to find the real bottleneck — 30% throughput improvement across 12+ facilities and 400+ operators |
-| [Agentic Development (TBA)](https://github.com/fomeroglu/product-systems-portfolio/tree/main/warehouse-module) | Directing AI agent execution via product charter and milestone scoping — active build |
+| [Agentic Development (TBA)](https://github.com/fomeroglu/product-systems-portfolio/tree/main/agentic-development) | Directing AI agent execution via product charter and milestone scoping — active build |
 
 ---
 
