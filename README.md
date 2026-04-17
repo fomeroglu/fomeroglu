@@ -8,7 +8,7 @@ I think in systems, not just features. My work spans physical products with embe
 
 ## What I build
 
-**Operational systems** — redesigned sortation workflows across 12+ facilities and 400+ operators, using SQL scan-event analysis to isolate bottlenecks and validate changes. Throughput improved 25–30%.
+**Operational systems** — redesigned sortation workflows across 12+ facilities and 400+ operators, using SQL scan-event analysis to isolate bottlenecks and validate changes. Throughput improved 30%.
 
 **Hardware + software products** — led deployment of 1,000+ IoT-enabled trackable containers, defining the integration contract between physical telemetry and platform workflows.
 
@@ -20,12 +20,12 @@ I think in systems, not just features. My work spans physical products with embe
 
 ## Projects in this portfolio
 
-| Project | What it shows |
+| Project | The story |
 |---|---|
-| [0→1 SaaS Product (TBA)](https://github.com/fomeroglu/product-systems-portfolio/tree/main/saas-platform) | 0→1 system design · API contracts · domain model · SQL analysis |
-| [Smart Containers](https://github.com/fomeroglu/product-systems-portfolio/tree/main/smart-containers) | IoT telemetry · webhook integration · API contract design |
-| [Sortation Platform](https://github.com/fomeroglu/product-systems-portfolio/tree/main/sortation-platform) | SQL analysis · data-driven ops · field research |
-| [Agentic Development (TBA)](https://github.com/fomeroglu/product-systems-portfolio/tree/main/warehouse-module) | Agentic PM · product charter · AI-assisted development |
+| [0→1 SaaS Product (TBA)](https://github.com/fomeroglu/product-systems-portfolio/tree/main/saas-platform) | Turned an ambiguous vision into a shippable system — 60% faster validation, 3–5 pilots |
+| [Smart Containers](https://github.com/fomeroglu/product-systems-portfolio/tree/main/smart-containers) | Built and validated a physical + digital product from prototype to deployment — telemetry integration, usability testing, and field validation across 1,000+ units |
+| [Sortation Platform](https://github.com/fomeroglu/product-systems-portfolio/tree/main/sortation-platform) | Used data to find the real bottleneck — 30% throughput improvement across 12+ facilities and 400+ operators |
+| [Agentic Development (TBA)](https://github.com/fomeroglu/product-systems-portfolio/tree/main/warehouse-module) | Directing AI agent execution via product charter and milestone scoping — active build |
 
 ---
 
