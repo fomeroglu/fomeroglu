@@ -1,42 +1,32 @@
-# Fatih Omeroglu — Product Manager
+# Fatih Omeroglu — UX Researcher
 
-Product Manager with a Doctor of Engineering in Human-Computer Interaction. I build 0→1 products and workflow-driven systems — working at the intersection of operations, data, and engineering.
+UX Researcher with a doctorate in Human-Computer Interaction. I design mixed-methods research programs that connect findings to decisions and decisions to outcomes.
 
-I think in systems, not just features. My work spans physical products with embedded telemetry, multi-facility operational platforms, SaaS, and AI-assisted product development.
-
----
-
-## What I build
-
-**Operational systems** — redesigned sortation workflows across 12+ facilities and 400+ operators, using SQL scan-event analysis to isolate bottlenecks and validate changes. Throughput improved 30%.
-
-**Hardware + software products** — led deployment of 1,000+ IoT-enabled trackable containers, defining the integration contract between physical telemetry and platform workflows.
-
-**0→1 SaaS platform (TBA)** — leading zero-to-one product creation from concept to pilot. Defined MVP scope, designed end-to-end system logic and user flows, and accelerated validation cycles by 60% through rapid prototyping. 3–5 pilot customers.
-
-**Agentic PM** — exploring a new development workflow: product charter as goal vector, milestone-scoped Cursor Agent execution, and PM-layer decision making on business tradeoffs the agent can't resolve. Active build in progress.
+My work spans field observation, behavioral log analysis, heuristic evaluation, vendor evaluation, iterative usability testing, and 0-to-1 discovery research — applied to complex operational environments where the answers don't come from a lab.
 
 ---
 
-## Projects in this portfolio
+## Research portfolio
 
-| Project | The story |
-|---|---|
-| [0→1 SaaS Product (TBA)](https://github.com/fomeroglu/product-systems-portfolio/tree/main/saas-platform) | Turned an ambiguous vision into a shippable system — 60% faster validation, 3–5 pilots |
-| [Smart Containers](https://github.com/fomeroglu/product-systems-portfolio/tree/main/smart-containers) | Built and validated a physical + digital product from prototype to deployment — telemetry integration, usability testing, and field validation across 1,000+ units |
-| [Sortation Platform](https://github.com/fomeroglu/product-systems-portfolio/tree/main/sortation-platform) | Used data to find the real bottleneck — 30% throughput improvement across 12+ facilities and 400+ operators |
-| [Agentic Development (TBA)](https://github.com/fomeroglu/product-systems-portfolio/tree/main/agentic-development) | Directing AI agent execution via product charter and milestone scoping — active build |
+**Operational systems** — multi-method research program combining operator surveys, heuristic evaluation, and behavioral log analysis to locate and validate the root cause of a network-wide throughput constraint. 30% improvement confirmed across 400+ operators at 12+ facilities.
+
+**Physical + digital product** — vendor evaluation through live field pilots, telemetry pattern analysis from raw IoT data, and iterative physical design validation across four production batches. ~30% faster iteration cycles. 1,000+ units deployed.
+
+**0-to-1 marketplace** — generative discovery, competitive analysis, journey mapping, AI-assisted prototype testing, and supplier field validation. Research eliminated a planned feature before engineering started. API contracts produced before any engineering build began.
+
+→ [Full research portfolio](https://github.com/fomeroglu/uxr-research-portfolio)
 
 ---
 
-## Technical skills
+## Research methods
 
 ```
-Languages & data    SQL (Google BigQuery) · Python · R
-API & integration   REST APIs · Webhooks · OpenAPI · Postman
-AI & automation     Claude · Cursor · LLM-powered features · Prompt engineering
-Product tools       Figma · Notion · Jira · Miro
-Systems             Event-driven architecture · State machines · Domain modeling
+Field research         Contextual inquiry · Heuristic evaluation · Site visits
+Behavioral analysis    SQL (BigQuery) · Window functions · Before/after validation
+Survey research        Survey design · Kano analysis · Longitudinal programs
+Usability testing      SUS/SEQ measurement · Iterative rounds · Mobile testing
+Discovery research     Semi-structured interviews · Bullseye customer sprints
+Concept testing        AI-assisted prototyping · Journey mapping · ICP definition
 ```
 
 ---
