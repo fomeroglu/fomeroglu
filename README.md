@@ -8,7 +8,7 @@ My work spans field observation, behavioral log analysis, heuristic evaluation, 
 
 ## Research portfolio
 
-**Operational systems** — multi-method research program combining operator surveys, heuristic evaluation, and behavioral log analysis to locate and validate the root cause of a network-wide throughput constraint. 30% improvement confirmed across 400+ operators at 12+ facilities.
+**Operational systems** — multi-method research program combining operator surveys, heuristic evaluation, and behavioral log analysis to locate and validate the root cause of a network-wide throughput constraint. 28% improvement confirmed across 400+ operators at 12+ facilities.
 
 **Physical + digital product** — vendor evaluation through live field pilots, telemetry pattern analysis from raw IoT data, and iterative physical design validation across four production batches. ~30% faster iteration cycles. 1,000+ units deployed.
 
