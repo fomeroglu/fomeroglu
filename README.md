@@ -1,6 +1,6 @@
-# Fatih Omeroglu — UX Researcher
+# Fatih Omeroglu — Experience & Design Researcher
 
-UX Researcher with a doctorate in Human-Computer Interaction. I design mixed-methods research programs that connect findings to decisions and decisions to outcomes.
+Experience & Design researcher with a doctorate in Human-Computer Interaction. I design mixed-methods research programs across software and hardware, connecting findings to decisions and decisions to outcomes.
 
 My work spans field observation, behavioral log analysis, heuristic evaluation, vendor evaluation, iterative usability testing, and 0-to-1 discovery research — applied to complex operational environments where the answers don't come from a lab.
 
@@ -35,7 +35,7 @@ Concept testing        AI-assisted prototyping · Journey mapping · ICP definit
 
 - **Doctor of Engineering** — Human-Computer Interaction & Industrial Engineering, Lamar University
 - **5+ peer-reviewed publications** — cognitive performance, HCI, UI/UX effects (*Physiology & Behavior 2025*, *HCII 2022–2023*)
-- Previously: FedEx Operations Research, Lactalis Project Engineering
+- Previously: FedEx Operations Research, Lactalis Systems Design
 
 ---
 
