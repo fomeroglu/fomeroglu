@@ -8,11 +8,11 @@ My work spans field observation, behavioral log analysis, heuristic evaluation, 
 
 ## Research portfolio
 
-**Operational systems** — multi-method research program combining operator surveys, heuristic evaluation, and behavioral log analysis to locate and validate the root cause of a network-wide throughput constraint. 28% improvement confirmed across 400+ operators at 12+ facilities.
+**Sortation Platform** — Multi-method research program combining operator surveys, heuristic evaluation, and behavioral log analysis to locate and validate the root cause of a network-wide throughput constraint. 28% improvement confirmed across 400+ operators.
 
-**Physical + digital product** — vendor evaluation through live field pilots, telemetry pattern analysis from raw IoT data, and iterative physical design validation across four production batches. ~30% faster iteration cycles. 1,000+ units deployed.
+**Physical + digital product** — Field research on a reusable IoT container across live carrier operations: on-site observation, operator interviews, and telemetry pattern analysis from raw device data. Insights drove iterative physical design decisions across four production batches. 1,000+ units deployed.
 
-**0-to-1 marketplace** — generative discovery, competitive analysis, journey mapping, AI-assisted prototype testing, and supplier field validation. Research eliminated a planned feature before engineering started. API contracts produced before any engineering build began.
+**0-to-1 marketplace** — 0-to-1 research program spanning generative discovery, competitive analysis, journey mapping, AI-assisted prototype testing, and field validation with logistics operators. Research eliminated a planned feature before engineering started and measurably simplified the core booking experience through iterative prototype testing.
 
 → [Full research portfolio](https://github.com/fomeroglu/uxr-research-portfolio)
 
