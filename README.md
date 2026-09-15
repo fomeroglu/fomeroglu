@@ -1,8 +1,8 @@
 # Fatih Omeroglu — Experience & Design Researcher
 
-Experience & Design researcher with a doctorate in Human-Computer Interaction. I design mixed-methods research programs across software and hardware, connecting findings to decisions and decisions to outcomes.
+Experience & Design researcher with a doctorate in Industrial Engineering specializing in Human Factors and Human-Computer Interaction. I design mixed-methods research programs across software, hardware, and physical products, connecting findings to decisions and decisions to outcomes.
 
-My work spans field observation, behavioral log analysis, heuristic evaluation, vendor evaluation, iterative usability testing, and 0-to-1 discovery research — applied to complex operational environments where the answers don't come from a lab.
+My work spans field observation, behavioral log analysis, heuristic evaluation, human factors evaluation, vendor and competitive benchmarking, iterative usability testing, and 0-to-1 discovery research, applied to complex operational environments where the answers don't come from a lab.
 
 ---
 
@@ -33,8 +33,8 @@ Concept testing        AI-assisted prototyping · Journey mapping · ICP definit
 
 ## Background
 
-- **Doctor of Engineering** — Human-Computer Interaction & Industrial Engineering, Lamar University
-- **5+ peer-reviewed publications** — cognitive performance, HCI, UI/UX effects (*Physiology & Behavior 2025*, *HCII 2022–2023*)
+- **Doctor of Engineering** — Industrial Engineering, specializing in Human Factors and Human-Computer Interaction, Lamar University
+- **5+ peer-reviewed publications** — cognitive performance, HCI, UI/UX effects (*Physiology & Behavior 2025, HFES 2022, HCII 2022–2023*)
 - Previously: FedEx Operations Research, Lactalis Systems Design
 
 ---
