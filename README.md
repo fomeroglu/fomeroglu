@@ -16,7 +16,7 @@ Built a multi-method research program across warehouse workflows involving scann
 
 **0-to-1 marketplace** — Led research across early discovery, concept evaluation, journey mapping, rapid iterative usability testing, behavioral analysis, and field validation for a two-sided freight marketplace and its mobile execution workflows. Research reshaped product architecture, eliminated unnecessary functionality before engineering investment, and simplified critical booking and operational flows.
 
-→ [Full research portfolio](https://github.com/fomeroglu/uxr-research-portfolio)
+→ [Selected research work](https://github.com/fomeroglu/uxr-research-portfolio)
 
 ---
 
