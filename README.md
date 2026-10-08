@@ -1,18 +1,20 @@
-# Fatih Omeroglu — Experience & Design Researcher
+# Fatih Omeroglu — Mixed Methods Researcher
 
-Experience & Design researcher with a doctorate in Industrial Engineering specializing in Human Factors and Human-Computer Interaction. I design mixed-methods research programs across software, hardware, and physical products, connecting findings to decisions and decisions to outcomes.
-
-My work spans field observation, behavioral log analysis, heuristic evaluation, human factors evaluation, vendor and competitive benchmarking, iterative usability testing, and 0-to-1 discovery research, applied to complex operational environments where the answers don't come from a lab.
+Human Factors & Mixed Methods Researcher with a doctorate in Industrial Engineering specializing in Human Factors and Human-Computer Interaction.
+I design and lead research across physical products, human-machine systems, software, and digital experiences, combining behavioral, qualitative, operational, and physiological evidence to connect research findings to product and engineering decisions.
+As the first dedicated researcher at a logistics technology startup, I built the research and Human Factors practice from the ground up and embedded research across the product lifecycle — from early discovery and benchmarking through controlled evaluation, field deployment, and continuous validation.
+My work spans field research, task analysis, behavioral telemetry, heuristic and ergonomic evaluation, controlled comparative studies, longitudinal research, usability testing, competitive benchmarking, and 0→1 discovery, particularly in complex operational environments where understanding the real context of use is critical.
 
 ---
 
 ## Research portfolio
 
-**Sortation Platform** — Multi-method research program combining operator surveys, heuristic evaluation, and behavioral log analysis to locate and validate the root cause of a network-wide throughput constraint. 28% improvement confirmed across 400+ operators.
+**Sortation Platform** — Human-machine systems & operational Human Factors
+Built a multi-method research program across warehouse workflows involving scanners, touchscreens, scales, dimensioning systems, printers, and operational software. Combined field observation, task analysis, heuristic evaluation, and behavioral/operational data to identify workflow constraints and translate them into engineering changes. Research contributed to a 28% throughput improvement and substantial reductions in workflow-induced errors.
 
-**Smart Containers: Physical + digital product** — Field research on a reusable IoT container across live carrier operations: on-site observation, operator interviews, and telemetry pattern analysis from raw device data. Insights drove iterative physical design decisions across four production batches. 3,000+ units deployed.
+**Smart Containers: Physical + IoT Human Factors** — Led research from early concept through prototype evaluation, production, and longitudinal field deployment of a reusable IoT-enabled freight container. Used comparative field studies, operator research, workload measures, diary studies, telemetry analysis, and failure investigation to guide decisions around weight, mobility, access, containment, durability, tracker placement, and serviceability. The product evolved through multiple versions and scaled to 3,000+ deployed units.
 
-**0-to-1 marketplace** — 0-to-1 research program spanning generative discovery, competitive analysis, journey mapping, AI-assisted prototype testing, and field validation with logistics operators. Research eliminated a planned feature before engineering started and measurably simplified the core booking experience through iterative prototype testing.
+**0-to-1 marketplace** — Led research across early discovery, concept evaluation, journey mapping, rapid iterative usability testing, behavioral analysis, and field validation for a two-sided freight marketplace and its mobile execution workflows. Research reshaped product architecture, eliminated unnecessary functionality before engineering investment, and simplified critical booking and operational flows.
 
 → [Full research portfolio](https://github.com/fomeroglu/uxr-research-portfolio)
 
@@ -21,12 +23,13 @@ My work spans field observation, behavioral log analysis, heuristic evaluation, 
 ## Research methods
 
 ```
-Field research         Contextual inquiry · Heuristic evaluation · Site visits
-Behavioral analysis    SQL (BigQuery) · Window functions · Before/after validation
-Survey research        Survey design · Kano analysis · Longitudinal programs
-Usability testing      SUS/SEQ measurement · Iterative rounds · Mobile testing
-Discovery research     Semi-structured interviews · Bullseye customer sprints
-Concept testing        AI-assisted prototyping · Journey mapping · ICP definition
+Human Factors          Task analysis · Ergonomic evaluation · Heuristic review · Error prevention/recovery
+Field Research         Contextual inquiry · Site observation · Workflow mapping · Longitudinal studies
+Behavioral Analysis    BigQuery/SQL · Event logs · Telemetry · Before/after validation
+Usability Testing      Controlled comparisons · SUS/SEQ · Mobile & touchscreen testing · Iterative rounds
+Survey Research        NASA-TLX · Borg/comfort measures · Survey design · Longitudinal tracking
+Discovery Research     Semi-structured interviews · Journey mapping · 0→1 problem framing
+Concept Testing        Prototype evaluation · Comparative studies · AI-assisted prototyping · Design validation
 ```
 
 ---
