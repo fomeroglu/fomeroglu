@@ -23,11 +23,11 @@ Built a multi-method research program across warehouse workflows involving scann
 ## Research methods
 
 ```
-Human Factors          Task analysis · Ergonomic evaluation · Heuristic review · Error prevention/recovery
+Human Factors          Task analysis · Ergonomic evaluation · Heuristic review · Experimental design
 Field Research         Contextual inquiry · Site observation · Workflow mapping · Longitudinal studies
 Behavioral Analysis    BigQuery/SQL · Event logs · Telemetry · Before/after validation
 Usability Testing      Controlled comparisons · SUS/SEQ · Mobile & touchscreen testing · Iterative rounds
-Survey Research        NASA-TLX · Borg/comfort measures · Survey design · Longitudinal tracking
+Survey Research        NASA-TLX · Survey design · Longitudinal tracking
 Discovery Research     Semi-structured interviews · Journey mapping · 0→1 problem framing
 Concept Testing        Prototype evaluation · Comparative studies · AI-assisted prototyping · Design validation
 ```
