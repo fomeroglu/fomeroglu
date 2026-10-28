@@ -22,9 +22,9 @@ Built a multi-method research program across warehouse workflows involving scann
 
 ## Tools
 
-**[Study Planner](https://fomeroglu.github.io/study-planner/)**: a free, browser-based planner I designed and built for human factors and UX studies. Describe your study, and it works out how many participants you need, which analysis to plan for, and what your sample can support, with every number traced back to a documented method.
+**[Study Planner](https://fomeroglu.github.io/study-planner/)**: a free, browser-based planner I designed and built for human factors and UX studies. Describe your study, and it works out how many participants you need, which analysis to plan for, and what your sample can support, with every number traced back to a documented method. Its calculations are validated against R.
 
-[Live tool](https://fomeroglu.github.io/study-planner/) · [Methods](https://github.com/fomeroglu/study-planner/blob/main/docs/methods.md) · [Source](https://github.com/fomeroglu/study-planner)
+[Live tool](https://fomeroglu.github.io/study-planner/) · [Methods](https://github.com/fomeroglu/study-planner/blob/main/docs/methods.md) · [Validation](https://github.com/fomeroglu/study-planner/tree/main/validation) · [Source](https://github.com/fomeroglu/study-planner)
 
 ---
 
